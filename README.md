@@ -21,4 +21,4 @@ is the main Rscript where all the transformation is performed. For more details 
 * ####  finaldata.txt : 
 is the final tidy dataset where all the cleaning is performed.
 * #### data.zip :
-is the zipfile of the raw data for reference.
+is the zipfile of the raw data for reference
